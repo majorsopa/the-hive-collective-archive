@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/after_pillars.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/airplaine0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/airplane0.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/airplane1.png" alt=""><figcaption></figcaption></figure>
 
@@ -11,8 +11,6 @@
 <figure><img src="../.gitbook/assets/arena_screenshot0.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/arena_screenshot1.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/base_screenshot.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/basher_in_meeting_room.png" alt=""><figcaption></figcaption></figure>
 
