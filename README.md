@@ -1,5 +1,5 @@
 ---
-description: Photo archive (currently unfinished)
+description: Photo archive for The Hive Collective's first base
 ---
 
 # The Hive Collective
